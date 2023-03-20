@@ -7,6 +7,7 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Solution Link](#Solution)
 - [My process](#my-process)
 
 ## Overview
@@ -18,10 +19,19 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+### Solution 
+
+- ![Live Site](https://mibenin.github.io/Huddle-landing-page-with-curved-sections/)
+
+- ![Repo Link](https://github.com/MIBENIN/Huddle-landing-page-with-curved-sections)
+
 ### Screenshot
 
--
+- Desktop version
+
 ![desktop_version](./huddle_landing_page_with_curved_sections_desktop_version.png)
+
+- Mobile version
 
 ![mobile_version](./huddle_landing_page_with_curved_sections_mobile_version.png)
 
@@ -38,4 +48,4 @@ Users should be able to:
 
 ## Author
 
- S Benin 
+ 😆S Benin 
