@@ -1,0 +1,27 @@
+@tailwind base;
+
+@layer base{
+    body{
+        @apply text-VeryDarkCyan;
+    }
+    .container{
+        max-width:1152px;
+        display: flex;
+        align-items: center;
+        gap:5em; 
+    }
+    
+    button,h1,h2,h3,h4{
+        @apply font-Poppins;
+    }
+    p{
+        @apply font-OpenSans font-normal;
+    }
+    section{
+        @apply py-20 text-center;
+    }
+}
+@tailwind components;
+
+    
+@tailwind utilities;
