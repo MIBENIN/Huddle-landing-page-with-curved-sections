@@ -21,9 +21,9 @@ Users should be able to:
 
 ### Solution 
 
-- ![Live Site](https://mibenin.github.io/Huddle-landing-page-with-curved-sections/)
+- ![https://mibenin.github.io/Huddle-landing-page-with-curved-sections/](https://mibenin.github.io/Huddle-landing-page-with-curved-sections/)
 
-- ![Repo Link](https://github.com/MIBENIN/Huddle-landing-page-with-curved-sections)
+- ![https://github.com/MIBENIN/Huddle-landing-page-with-curved-sections](https://github.com/MIBENIN/Huddle-landing-page-with-curved-sections)
 
 ### Screenshot
 
